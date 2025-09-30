@@ -46,6 +46,7 @@ We tested passwords across the strength spectrum:
 1. Review the full report in `/report/Password-Strength-Analysis-Report.md`
 2. Check the password samples in `/passwords/password-samples.md`
 3. Run the password generator: `python scripts/password-generator.py`
+4. Check the example of password strength in `/assets/screenshots/`
 
 ---
 <div align="center">
