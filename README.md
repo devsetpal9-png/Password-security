@@ -4,6 +4,10 @@
 
 # **Create & Evaluate Strong Passwords**
 
+<p align="center">
+  <img src="./assets/password-banner.png" alt="Create & Evaluate Strong Passwords">
+</p>
+
 ### *Learn password best practices and evaluation techniques.*
 
 ![Strength Journey](https://img.shields.io/badge/Weak%20→%20Moderate%20→%20Strong-Evolution-orange)
